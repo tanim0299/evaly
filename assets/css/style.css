@@ -1,0 +1,36 @@
+img#logo {
+    max-width: 87px;
+}
+
+section#top-header {
+    margin-top: 12px;
+}
+
+.input-group input, button {
+    border-radius: 0px !important;
+}
+
+input.form-control:focus{
+    box-shadow: none !important;
+    border : 1px solid black !important;
+}
+
+#search{
+    background: #ebe6e6;
+}
+
+.cart-option a {
+    text-decoration: none !important;
+    color: black !important;
+    padding: 5px 7px;
+    margin-left: 15px;
+    transition: .3s !important;
+}
+
+.cart-option a:hover {
+    border: 1px solid lightgray !important;
+}
+
+.cart-option{
+    margin-top: 10px;
+}
